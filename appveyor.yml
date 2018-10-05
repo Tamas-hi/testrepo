@@ -1,7 +1,6 @@
 version: 1.0.0-{build}
 configuration: Release
-cache: 
-    - packages -> **\packages.config
-before_build: nuget restore
+artifacts:
+- path: artifact.txt
 build: 
     publish_wap: true
