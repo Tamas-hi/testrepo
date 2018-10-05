@@ -1,4 +1,6 @@
 version: 1.0.0-{build}
 configuration: Release
+artifacts:
+- path: artifact.txt
 build: 
     publish_wap: true
