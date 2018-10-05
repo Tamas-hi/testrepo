@@ -1,0 +1,18 @@
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\bin\Debug\Graphicsteszt.exe.config
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\bin\Debug\Graphicsteszt.exe
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\bin\Debug\Graphicsteszt.pdb
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.Properties.Resources.resources
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.csproj.GenerateResource.cache
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.exe
+C:\Users\Tomi\source\repos\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.pdb
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\bin\Debug\Graphicsteszt.exe.config
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\bin\Debug\Graphicsteszt.exe
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\bin\Debug\Graphicsteszt.pdb
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.Properties.Resources.resources
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.csproj.GenerateResource.cache
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.exe
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.pdb
+C:\Users\Tomi\OneDrive - Schönherz Zoltán Kollégium\SZNIKAK\Graphicsteszt\Graphicsteszt\obj\Debug\Graphicsteszt.csprojAssemblyReference.cache
